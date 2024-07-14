@@ -2,22 +2,7 @@
 PROBLEM STATEMENT
 MUSIC RECOMMENDATION SYSTEM
 Objective:
-The objective of this competition is to design and implement Music Player. Participants areexpected to apply data structures and algorithms to implement below tasks for design and implementation of music player.
-Task:
-participants have to design a music player with the following functionalities:
-1.Add a song to the Music Player.
-2.Play a random song from music player such those same songs are not repeated
-consecutively.
-3.Play/Pause a particular song.
-4.Skip backward:When the user clicks the skip backward option, it plays the previous song in
-the playlist.
-5.Skip forward:When the user clicks the skip option, it plays the previous song in the playlist.
-6.Adjust the volume control of music.
-participants are encouraged to develop below additional functionalities to the Music Player
-system:
-1.Search/sort or Manage songs according to the Generation of songs.
-2. Apply machine learning techniques to create a playlist according to user mood.
-3. Add more features to a song like user listening count which can help us to find user liking.
+The objective of this competition is to design and implement Music Player. Participants are expected to apply data structures and algorithms to implement below tasks for design and implementation of music player.
 
 OUR SOLUTION
 Our group of 3 have implemented music player with all these features using a TREE data structure that too with Binary Search Tree.This way each node has a name of artist and songs connected down below.Apart from 
